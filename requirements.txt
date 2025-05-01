@@ -1,0 +1,8 @@
+dash
+pandas
+geopandas
+folium
+openai
+plotly
+bs4
+python-dotenv
